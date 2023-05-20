@@ -46,7 +46,7 @@
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalejandrocd&show_icons=true&locale=en&layout=compact&theme=dark" alt="lalejandrocd" />
-&nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=dark&hide_border=true" alt="lalejandrocd" />
+&nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=dark&hide_border=false" alt="lalejandrocd" />
 <img height="180oem" src="https://github-readme-streak-stats.herokuapp.com/?user=lalejandrocd&theme=dark" alt="lalejandrocd" />
 </p>
 
