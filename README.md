@@ -8,17 +8,17 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 
-- 🔭 I’m currently working learning JS and finding job about my profession [gestor-biblioteca](https://github.com/lAlejandrocd/gestor_biblioteca)
+- 🔭 I’m currently learning JS and looking for a job about my profession. [gestor-biblioteca](https://github.com/lAlejandrocd/gestor_biblioteca)
 
-- 🌱 I’m currently learning **NoSQL, JS**
+- 🌱 I’m currently learning **NoSQL** and **JS**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web development**
 
-- 🏆 2023 Goal:**Start Working About My Profession**
+- 🏆 2023 Goal: **Start working about my profession**
 
-- 🏫 I Want to learn MERN stack.
+- 🏫 I wanna learn **MERN** stack.
 
-- 📫 How to reach me **lalejandrocd1@gmail.com**
+- 📫 Contact: **lalejandrocd1@gmail.com**
 
 - ⚡ Fun fact **I am happy**
 
@@ -26,8 +26,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/lalejandrocd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalejandrocd/)[<a href = "mailto:lalejandrocd1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>]()
-
+[<img src="https://img.shields.io/badge/lalejandrocd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalejandrocd/)
 
 ---
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
