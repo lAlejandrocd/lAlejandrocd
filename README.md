@@ -8,9 +8,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 
-- 🔭 I’m currently learning JS and looking for a job about my profession.
-
-- 🌱 I’m currently learning **NoSQL** and **JS**
+- 🔭 I’m currently learning **JS**,**NoSQL** and looking for a job about my profession.
 
 - 💬 Ask me about **Web development**
 
