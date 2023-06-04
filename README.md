@@ -56,3 +56,11 @@
 ### Projects 💪
 <p align="center"></p>
 <table width="100%"><tr><td align="center"><a href="https://github.com/lAlejandrocd/gestor_biblioteca.git">1.Gestor Biblioteca</a> </td></tr></table>
+
+---
+License
+
+---
+
+[Linkelin]: https://www.linkedin.com/in/lalejandrocd/
+
