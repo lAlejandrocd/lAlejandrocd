@@ -14,7 +14,7 @@
 
 - 💬 `Ask me about` **Web development**,
 
-- 🏆 `2023 Goal:` **Start working about my profession**,
+- 🏆 `2023 Goal:` **Pursue my career**,
 
 - 🏫 `I wanna learn` **MERN** stack,
 
