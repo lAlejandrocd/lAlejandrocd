@@ -42,34 +42,19 @@
 ---
 
 ### Projects 💪
-<p align="center"></p>
-<table width="100%">
-<tr>
-<td align="center">
-<a href="https://github.com/lAlejandrocd/portafolio.git">0.My Website</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/lAlejandrocd/gestor_biblioteca.git">1.Gestor Biblioteca</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/lAlejandrocd/periodic-table">2.Tabla periódica</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/lAlejandrocd/restaurant-website">3. Restaurant Website</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/lAlejandrocd/app-menu.git">4. App Menu</a>
-</td>
-</tr>
-</table>
+_I love make projects to improve my skills and show the people what I can do._
+
+- [My-Website](https://github.com/lAlejandrocd/portafolio.git)
+
+- [gestor-biblioteca](https://github.com/lAlejandrocd/gestor_biblioteca.git)
+
+- [Tabla periódica](https://github.com/lAlejandrocd/periodic-table)
+
+- [Restaurant website](https://github.com/lAlejandrocd/restaurant-website)
+
+- [App menu](https://github.com/lAlejandrocd/app-menu.git)
+
+
 
 ---
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
