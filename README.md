@@ -3,16 +3,11 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lalejandrocd&label=Profile%20views&color=0e75b6&style=flat" alt="lalejandrocd" /> </p>
+## *About Me*
 
----
+- 📚 `Web junior developer with` **1 year of experience** `programming with web technologies like` **HTML** `,` **CSS**`,` **JS**`,` **PHP** `vanilla` `and` **MYSQL** `like database. I’m currently learning` **JS** `and` **NoSQL** `and looking for a job about my profession`,
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  {
-
-
-- 📚 `I’m currently learning` **JS** **NoSQL** `and looking for a job about my profession`,
-
-- 💬 `Ask me about` **Web development**,
+- 💬 `Ask me about` **My projects**,
 
 - 🏆 `2023 Goal:` **Pursue my career**,
 
@@ -24,16 +19,11 @@
 
 - ❤️ `I love`: **Coffe,Books,Video-Games**
 
-##  }
+<!-- --- -->
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
-
-[<img src="https://img.shields.io/badge/lalejandrocd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalejandrocd/)
+<!-- ## *Support Me:* -->
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F5ONIGX) -->
-
 
 ---
 
