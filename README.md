@@ -1,25 +1,37 @@
-<h1 align="center">Hi 👋, I'm Alejandro Ceron</h1>
-<h3 align="center">Junior Backend Developer From Colombia.</h3>
+<h1 align="center">Hola 👋, Soy Alejandro Ceron Delgado</h1>
+<h3 align="center">Desarrollador web junior de Colombia.</h3>
 
 ---
 
-## *About Me*
+## *Acerca de mi*
 
-- 📚 `Web junior developer with` **1 year of experience** `programming with web technologies like` **HTML** `,` **CSS**`,` **JS**`,` **PHP** `vanilla` `and` **MYSQL** `like database. I’m currently learning` **JS** `and` **NoSQL** `and looking for a job about my profession`,
+- 📚 `Desarrollador web junior con` **1 año de experiencia** `desarrollando con tecnologías como` **HTML** `,` **CSS**`,` **JS**`,` **PHP** `vanilla` `y` **MYSQL** `como base de datos. Actualmente estoy aprendiendo JS` **JS** `y` **NoSQL** `adicional a ello, me encuentro en búsqueda de mi primer empleo como desarrollador de manera formal.`,
 
-- 💬 `Ask me about` **My projects**,
+- 💬 `Pregúntame acerca de:` **Mis proyectos y mi formación.**,
 
-- 🏆 `2023 Goal:` **Pursue my career**,
+- 🏆 `Meta 2024:` **Seguir con mi carrera y conseguir empleo en el area a la cual estoy estudiando.**,
 
-- 🏫 `I wanna learn` **MERN** stack,
+- 🏫 `Quiero aprender:` **JS** y algún framework más enfocado en el area de backend.,
 
-- 📫 `Contact:` **lalejandrocd1@gmail.com**,
+- 📫 `Contacto:` **lalejandrocd1@gmail.com**,
 
-- ⚡ `Fun fact` **I am happy**,
+---
 
-- ❤️ `I love`: **Coffee,Books,Video-Games**
-
+## Formación
 <!-- --- -->
+
+```JS
+TPS:
+  Bachiller académico: "Politecnico municipal de Cali",
+  Programa de formación técnica: "Técnico en programación de software",
+  Fecha Inicio - Fecha Fin: 2020-2021,
+  Lugar de Formación Técnica: "Sena CEAI",
+
+
+  Programa de formación tecnológica: "Análisis y desarrollo de software",
+  Fecha Inicio - Fecha Fin: 2020-2021,
+  Lugar de Formación Tecnológica: "SENA CDTI",
+```
 
 <!-- ## *Support Me:* -->
 
@@ -27,22 +39,9 @@
 
 ---
 
-### Stats 📊
-
-<details>
-<summary> <b> ☕Github Readme Stats</b></summary>
-<br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalejandrocd&show_icons=true&locale=en&layout=compact&theme=gotham" alt="lalejandrocd" />
-&nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="lalejandrocd" />
-<img height="180oem" src="https://github-readme-streak-stats.herokuapp.com/?user=lalejandrocd&theme=gotham" alt="lalejandrocd" />
-</p>
-</details>
-
----
-
 ### Projects 💪
-_I love make projects to improve my skills and show the people what I can do._
+
+Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público mis capacidades como desarrollador.
 
 - [My-Website](https://github.com/lAlejandrocd/portafolio.git)
 
@@ -56,18 +55,29 @@ _I love make projects to improve my skills and show the people what I can do._
 
 ---
 
-## ⚙ My stack technologies
-|*Programming languages*|*Frontend*|*Backend*|
-|:---:|---|---|
-|<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>|  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> |
+### Estadísticas 📊
 
-|Dev Tools|Database|
-|:---|:---|
-|  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    |
+<details>
+<summary> <b> ☕Estadísticas de github</b></summary>
+<br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalejandrocd&show_icons=true&locale=en&layout=compact&theme=gotham" alt="lalejandrocd" />
+&nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="lalejandrocd" />
+<img height="180oem" src="https://github-readme-streak-stats.herokuapp.com/?user=lalejandrocd&theme=gotham" alt="lalejandrocd" />
+</p>
+</details>
 
 ---
 
 
 
-[Linkelin]: https://www.linkedin.com/in/lalejandrocd/
+## ⚙ Tecnologías que uso
+|*Lenguajes de programación*|*Frontend*|
+|:---:|---|
+|<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">|  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+|Dev Tools|Database|
+|:---|:---|
+|<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">|
+
+[Linkelin]: https**://www.linkedin.com/in/lalejandrocd/
