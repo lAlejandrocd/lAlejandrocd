@@ -21,16 +21,27 @@
 <!-- --- -->
 
 ```JS
-TPS:
-  Bachiller académico: "Politecnico municipal de Cali",
-  Programa de formación técnica: "Técnico en programación de software",
-  Fecha Inicio - Fecha Fin: 2020-2021,
-  Lugar de Formación Técnica: "Sena CEAI",
-
-
-  Programa de formación tecnológica: "Análisis y desarrollo de software",
-  Fecha Inicio - Fecha Fin: 2020-2021,
-  Lugar de Formación Tecnológica: "SENA CDTI",
+let formacion = {
+  bachiller: {
+    titulo: "Bachiller académico",
+    fechaInicio: 2012,
+    fechaFinal: 2016,
+  },
+  técnica: {
+    titulo: "Técnico en programación de software",
+    fechaInicio: 2020,
+    fechaFin: 2021,
+    estado: "terminado",
+    lugarFormación: "Sena CEAI",
+  },
+  tecnólogo: {
+    titulo: "Análisis y desarrollo de software",
+    fechaInicio: 2023,
+    fechaFin: 2026,
+    estado: "En curso",
+    lugarFormación: "SENA CDTI",
+  }
+}
 ```
 
 <!-- ## *Support Me:* -->
