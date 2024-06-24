@@ -76,6 +76,13 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 &nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="lalejandrocd" />
 <img height="180oem" src="https://github-readme-streak-stats.herokuapp.com/?user=lalejandrocd&theme=gotham" alt="lalejandrocd" />
 </p>
+
+---
+
+## Lenguajes más usados.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lAlejandrocd&layout=compact&theme=dark&locale=es)](https://github.com/lAlejandrocd)
+
+
 </details>
 
 ---
