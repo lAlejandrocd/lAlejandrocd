@@ -13,7 +13,7 @@
 
 - 🏫 `Quiero aprender:` **JS** y algún framework más enfocado en el area de backend.,
 
-- 📫 `Contacto:` **lalejandrocd1@gmail.com**,
+- 📫 `Contacto:` **<lalejandrocd1@gmail.com>**,
 
 ---
 
@@ -21,34 +21,78 @@
 <!-- --- -->
 
 ```JS
-let formacion = {
+let formación = {
   bachiller: {
     titulo: "Bachiller académico",
     fechaInicio: 2012,
     fechaFinal: 2016,
   },
-  técnica: {
-    titulo: "Técnico en programación de software",
-    fechaInicio: 2020,
-    fechaFin: 2021,
-    estado: "terminado",
-    lugarFormación: "Sena CEAI",
-  },
-  tecnólogo: {
-    titulo: "Análisis y desarrollo de software",
-    fechaInicio: 2023,
-    fechaFin: 2025,
-    estado: "En curso",
-    lugarFormación: "SENA CDTI",
+  educación_superior: {
+    nivelTécnico: {
+      titulo: "Técnico en programación de software",
+      fechaInicio: 2020,
+      fechaFin: 2021,
+      estado: "terminado",
+      lugarFormación: "Sena CEAI",
+    },
+    nivelTecnológico: {
+      titulo: "Análisis y desarrollo de software",
+      fechaInicio: 2023,
+      fechaFin: 2025,
+      estado: "En curso",
+      lugarFormación: "SENA CDTI",
+    }
   }
 }
 ```
 
-<!-- ## *Support Me:* -->
+---
 
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F5ONIGX) -->
+## PROYECTOS DE FORMACIÓN
 
 ---
+
+
+👨‍🎓 Formación Técnica
+
+<center>
+<details>
+<summary> Proyecto etapa léctica </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lAlejandrocd&repo=Aurora_TPS_P3_Proyecto_Final&show_icons=true&theme=transparent)](https://github.com/lAlejandrocd/Aurora_TPS_P3_Proyecto_Final.git)
+
+</details>
+</center>
+
+<br>
+
+<center>
+<details>
+<summary> Prácticas </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lAlejandrocd&repo=gestor_biblioteca&show_icons=true&theme=transparent)](https://github.com/lAlejandrocd/gestor_biblioteca)
+
+</details>
+</center>
+
+---
+
+👨‍🎓 Formación Tecnológica
+
+<center>
+<details>
+<summary> Formación complementaria </summary>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alceronDelgado&repo=lector_placas&show_icons=true&theme=transparent)](https://github.com/alceronDelgado/lector_placas)
+
+</details>
+</center>
+
+
+---
+
 
 ## 📂 Repos
 
@@ -79,23 +123,20 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 
 ---
 
-## Lenguajes más usados.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lAlejandrocd&layout=compact&theme=dark&locale=es)](https://github.com/lAlejandrocd)
+## Lenguajes más usados
 
+[![Lector Placas](https://github-readme-stats.vercel.app/api/top-langs/?username=lAlejandrocd&layout=compact&theme=dark&locale=es)](https://github.com/lAlejandrocd)
 
 </details>
 
 ---
 
-
-
 ## ⚙ Tecnologías que uso
+
 |*Lenguajes de programación*|*Frontend*|
 |:---:|---|
 |<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">|  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 |Tools|Database|
 |:---|:---|
-|<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">|
-
-[Linkelin]: https**://www.linkedin.com/in/lalejandrocd/
+|<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
