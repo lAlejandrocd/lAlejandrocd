@@ -52,17 +52,14 @@ let formación = {
 
 ---
 
-
 👨‍🎓 Formación Técnica
 
-<center>
 <details>
 <summary> Proyecto etapa léctica </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lAlejandrocd&repo=Aurora_TPS_P3_Proyecto_Final&show_icons=true&theme=transparent)](https://github.com/lAlejandrocd/Aurora_TPS_P3_Proyecto_Final.git)
 
 </details>
-</center>
 
 <br>
 
@@ -73,26 +70,21 @@ let formación = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lAlejandrocd&repo=gestor_biblioteca&show_icons=true&theme=transparent)](https://github.com/lAlejandrocd/gestor_biblioteca)
 
 </details>
-</center>
 
 ---
 
 👨‍🎓 Formación Tecnológica
 
-<center>
 <details>
-<summary> Formación complementaria </summary>
+<summary> Formación complementaria : PYTHON PATH - SENA 2024 </summary>
 
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alceronDelgado&repo=lector_placas&show_icons=true&theme=transparent)](https://github.com/alceronDelgado/lector_placas)
 
 </details>
-</center>
-
 
 ---
-
 
 ## 📂 Repos
 
