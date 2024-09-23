@@ -137,9 +137,3 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 |<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
 
 ---
-
-### ⚡ Actividad
-
-[![lAlejandrocd actividad](https://github-readme-activity-graph.vercel.app/graph?username=lAlejandrocd&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
