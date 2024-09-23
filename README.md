@@ -13,12 +13,17 @@
 
 - 🏫 `Quiero aprender:` **JS** y algún framework más enfocado en el area de backend.,
 
-- 📫 `Contacto:` **<lalejandrocd1@gmail.com>**,
+---
+
+## 🌐 Contacto
+
+- **LinkedIn**: [Alejandro ceron delgado](https://www.linkedin.com/in/lalejandrocd/)
+- **GitHub**: [lAlejandrocd](https://github.com/lAlejandrocd)
+- **Email** : <lalejandrocd1@gmail.com>
 
 ---
 
 ## 👨‍🎓 Formación
-<!-- --- -->
 
 ```JS
 let formación = {
@@ -48,11 +53,11 @@ let formación = {
 
 ---
 
-## PROYECTOS DE FORMACIÓN
+## 📄 PROYECTOS DE FORMACIÓN
 
 ---
 
-👨‍🎓 Formación Técnica
+### 👨‍🎓 Formación Técnica
 
 <details>
 <summary> Proyecto etapa léctica </summary>
@@ -62,8 +67,6 @@ let formación = {
 </details>
 
 <br>
-
-<center>
 <details>
 <summary> Prácticas </summary>
 
@@ -73,7 +76,7 @@ let formación = {
 
 ---
 
-👨‍🎓 Formación Tecnológica
+### 👨‍🎓 Formación Tecnológica
 
 <details>
 <summary> Formación complementaria : PYTHON PATH - SENA 2024 </summary>
@@ -102,12 +105,12 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 
 ---
 
-## Estadísticas 📊
+## 📊 Estadísticas
 
 <details>
 <summary> <b> ☕Estadísticas de github</b></summary>
 <br>
-<p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalejandrocd&show_icons=true&locale=en&layout=compact&theme=gotham" alt="lalejandrocd" />
 &nbsp;<img height="180oem" src="https://github-readme-stats.vercel.app/api?username=lalejandrocd&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="lalejandrocd" />
 <img height="180oem" src="https://github-readme-streak-stats.herokuapp.com/?user=lalejandrocd&theme=gotham" alt="lalejandrocd" />
@@ -123,7 +126,7 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 
 ---
 
-## ⚙ Tecnologías que uso
+### ⚙ Tecnologías que uso
 
 |*Lenguajes de programación*|*Frontend*|
 |:---:|---|
@@ -132,3 +135,11 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 |Tools|Database|
 |:---|:---|
 |<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
+
+---
+
+### ⚡ Actividad
+
+[![lAlejandrocd actividad](https://github-readme-activity-graph.vercel.app/graph?username=lAlejandrocd&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
