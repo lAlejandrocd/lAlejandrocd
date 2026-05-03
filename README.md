@@ -6,7 +6,7 @@
 
 ### **Acerca de mi**
 
-Desarrollador web Jr, 1 año de experiencia en desarrollo web usando tecnologías como PHP,apache como levantamiento de servidor en desarrollo, mysql o mariadb como base de datos, js para manipulación del doom, css como hoja de estilos y uso de materialize y bootstrap como frameworks.
+Desarrollador Web Jr. con experiencia en la creación de aplicaciones robustas utilizando **PHP (Laravel)** y **JavaScript**. Me especializo en el diseño de bases de datos relacionales y la implementación de interfaces funcionales con **Bootstrap** y **Materialize**. Soy entusiasta de la cultura Linux (Fedora user) y de las buenas prácticas de desarrollo.
 
 ---
 
@@ -18,36 +18,32 @@ Desarrollador web Jr, 1 año de experiencia en desarrollo web usando tecnología
 
 ---
 
-### **Formación**
+### Experiencia Laboral
 
-```JS
-let formacion = {
-  bachiller: {
-    titulo: "Bachiller académico",
-    fechaInicio: 2012,
-    fechaFinal: 2016,
-  },
-  educacionSuperior: {
-    nivelTécnico: {
-      titulo: "Técnico en programación de software",
-      fechaInicio: 2020,
-      fechaFin: 2021,
-      estado: "terminado",
-      lugarFormación: "Sena CEAI",
-      etapaPractica: 'SENA CEAI'
-    },
-    nivelTecnologico: {
-      titulo: "Análisis y desarrollo de software",
-      fechaInicio: 2023,
-      fechaFin: 2025,
-      estado: "terminado",
-      lugarFormación: "SENA CDTI",
-    }
-  }
-}
-```
+**Analista de Desarrollo | Nexura Internacional SAS**
+*Septiembre 2025 – Marzo 2026*
+- Levantamiento de requerimientos y creación de **Historias de Usuario**.
+- **Desarrollo** de característica administrativa de logs de registros a uno de los módulos de la entidad.
+- Configuración de sitios web para salida a producción.
+- Realización de **Listas de chequeo** para los sitios previamente configurados.
+
+**Soporte & Desarrollador | CCED**
+*Diciembre 2024 – Abril 2025*
+- Desarrollo de un aplicativo integral para la gestión de estudiantes, cursos y aulas.
+- Creación de la Landing Page institucional.
+- Mantenimiento preventivo de hardware y soporte técnico en sitio.
+
+**Desarrollador Web | Palmar de Altamira SAS**
+*Agosto 2020 – Marzo 2021*
+- Diseño y desarrollo de una aplicación para el control documental de áreas internas.
+- Elicitación y documentación de requerimientos técnicos.
 
 ---
+
+### Formación Académica
+
+- **Análisis y Desarrollo de Software (Tecnólogo)** | SENA CDTI | *2023 - 2025*
+- **Programación de Software (Técnico)** | SENA CEAI | *2020 - 2021*
 
 ## **PROYECTOS DE FORMACIÓN**
 
