@@ -97,12 +97,6 @@ Amo hacer proyectos para mejorar mis habilidades y así enseñarle al público m
 
 ---
 
-## **LENGUAJES MÁS USADOS**
-[![Lector Placas](https://github-readme-stats.vercel.app/api/top-langs/?username=alCeronD&layout=compact&theme=dark&locale=es)](https://github.com/alCeronD)
-</details>
-
----
-
 ### **⚙ TÉCNOLOGIAS Y/O HERRAMIENTAS QUE USO**
 
 |*Backend*|*Frontend*|
